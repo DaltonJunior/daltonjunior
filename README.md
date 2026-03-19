@@ -6,7 +6,6 @@
 
 Olá! Me chamo Dalton Néias de Carvalho Júnior, sou estudante do curso de Engenharia de Software, meu principal foco é na construção de aplicações com linguagens de programação, e analise de dados.
 
----
 ___
 
 ### Minhas redes sociais 📱
